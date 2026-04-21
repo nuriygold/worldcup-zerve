@@ -1,0 +1,801 @@
+date,home_team,away_team,home_goals,away_goals,competition,neutral
+2013-10-06,Argentina,Mexico,0,3,Nations League,False
+2015-02-17,USA,Mexico,3,1,Nations League,False
+2018-01-19,USA,Mexico,3,1,World Cup Qualifier,False
+2020-07-15,Belgium,Denmark,2,1,Friendly,False
+2014-08-01,Portugal,France,3,2,World Cup Qualifier,False
+2009-04-30,Canada,England,0,0,Friendly,True
+2018-10-16,Denmark,Mexico,2,0,Nations League,False
+2018-07-23,Croatia,Netherlands,3,0,Nations League,False
+2013-09-18,Brazil,Italy,1,0,Friendly,False
+2024-05-31,USA,England,3,1,World Cup Qualifier,False
+2006-01-01,Brazil,Germany,0,1,Friendly,False
+2015-01-10,Croatia,Netherlands,1,1,Nations League,False
+2025-05-26,Argentina,Germany,2,1,World Cup Qualifier,False
+2005-10-06,Denmark,USA,1,0,World Cup,False
+2007-12-07,Mexico,Italy,2,2,Nations League,False
+2021-07-04,Ecuador,Mexico,1,0,World Cup,False
+2007-10-18,France,Italy,1,0,World Cup Qualifier,False
+2013-04-20,USA,France,0,1,Nations League,False
+2016-09-19,Ecuador,Portugal,1,1,Continental Championship,True
+2004-03-21,Netherlands,Germany,1,1,Friendly,True
+2020-03-04,England,Croatia,1,0,Friendly,True
+2016-03-01,Denmark,France,3,1,Nations League,False
+2007-08-30,Ecuador,Canada,6,2,Nations League,False
+2020-05-21,Canada,Brazil,1,0,Friendly,True
+2007-05-30,Argentina,USA,1,0,Friendly,False
+2011-02-16,France,Ecuador,0,0,Friendly,False
+2006-12-07,England,France,2,0,World Cup,True
+2004-07-22,Croatia,USA,0,0,Friendly,False
+2012-11-04,Canada,Belgium,2,1,Friendly,False
+2007-04-19,Spain,Italy,0,2,Continental Championship,True
+2021-11-23,France,Canada,0,0,Nations League,False
+2009-07-28,Netherlands,Spain,2,1,Friendly,True
+2013-06-22,Argentina,Germany,1,0,World Cup Qualifier,False
+2022-09-15,Italy,Ecuador,0,1,Friendly,True
+2010-11-26,USA,France,0,0,Friendly,False
+2014-02-19,Italy,France,0,0,World Cup Qualifier,True
+2017-02-24,Brazil,Mexico,1,2,Nations League,False
+2023-10-12,Netherlands,Croatia,1,0,World Cup Qualifier,True
+2015-08-27,Brazil,Germany,0,1,Friendly,False
+2021-10-24,Argentina,USA,4,1,Friendly,False
+2014-04-18,Canada,USA,1,1,Friendly,False
+2011-07-11,Italy,Germany,1,1,Nations League,False
+2024-05-21,Denmark,Ecuador,4,1,Friendly,False
+2004-10-12,Netherlands,France,1,1,World Cup Qualifier,False
+2005-11-17,Italy,Denmark,4,1,Nations League,True
+2005-02-11,Canada,Denmark,0,1,World Cup,False
+2015-08-17,Netherlands,Ecuador,3,0,Friendly,False
+2014-11-11,Ecuador,Denmark,2,2,Continental Championship,False
+2010-12-30,Denmark,Germany,2,3,World Cup Qualifier,True
+2007-02-11,Italy,France,2,2,Nations League,False
+2019-04-07,Italy,Netherlands,2,1,Continental Championship,False
+2020-06-03,Brazil,Belgium,2,1,Friendly,True
+2018-10-23,Ecuador,Italy,1,0,World Cup Qualifier,True
+2023-01-03,Netherlands,Italy,2,0,Friendly,True
+2017-06-24,France,Brazil,1,5,Friendly,True
+2006-07-13,Netherlands,Mexico,3,1,World Cup Qualifier,False
+2019-10-17,Spain,Brazil,0,1,Nations League,False
+2014-03-18,Canada,England,0,0,Friendly,True
+2014-03-15,Germany,Ecuador,1,1,Continental Championship,False
+2015-12-17,Denmark,Portugal,1,1,Friendly,False
+2006-08-26,Netherlands,USA,1,2,Friendly,True
+2022-09-09,Ecuador,France,1,1,World Cup Qualifier,False
+2016-09-25,England,France,2,2,World Cup Qualifier,False
+2015-09-17,Belgium,Ecuador,4,1,World Cup Qualifier,False
+2014-12-29,USA,Netherlands,1,0,World Cup,True
+2014-11-05,Italy,Argentina,1,2,World Cup Qualifier,False
+2017-05-14,France,Croatia,4,1,Friendly,False
+2011-06-04,Argentina,Canada,1,0,World Cup,True
+2026-01-02,Portugal,USA,1,1,Friendly,False
+2022-08-02,Germany,Belgium,1,0,Friendly,False
+2004-12-28,England,Canada,1,1,Continental Championship,True
+2022-09-13,Spain,England,3,1,Friendly,False
+2022-10-15,USA,Germany,4,1,World Cup Qualifier,False
+2015-07-03,Netherlands,USA,2,1,World Cup Qualifier,False
+2024-08-19,England,Brazil,1,0,Friendly,False
+2015-09-12,Portugal,France,3,4,Continental Championship,False
+2013-10-16,Netherlands,Denmark,3,1,Continental Championship,False
+2010-08-16,Brazil,Belgium,3,1,World Cup,False
+2016-05-10,Argentina,Italy,1,1,Continental Championship,False
+2024-09-21,Germany,Mexico,4,0,Friendly,False
+2023-02-03,Italy,Argentina,1,2,Nations League,False
+2013-03-26,Spain,Brazil,2,1,Friendly,False
+2008-03-04,Belgium,Canada,3,1,Friendly,False
+2008-02-26,Argentina,Ecuador,2,1,Friendly,False
+2005-06-29,Germany,Argentina,1,1,World Cup Qualifier,True
+2025-05-29,England,Canada,2,0,Friendly,False
+2015-10-13,Canada,USA,1,0,Friendly,False
+2007-12-12,Spain,Denmark,1,2,World Cup Qualifier,False
+2026-02-16,Mexico,Netherlands,2,1,Continental Championship,False
+2011-02-04,Croatia,Portugal,1,1,Friendly,False
+2009-06-22,Brazil,Spain,1,0,Continental Championship,False
+2018-02-20,USA,Brazil,1,0,Nations League,True
+2013-04-08,Portugal,Netherlands,1,1,World Cup Qualifier,True
+2013-02-14,Ecuador,Brazil,1,0,Nations League,False
+2014-09-04,Belgium,England,2,1,Friendly,True
+2017-06-05,England,Croatia,1,0,World Cup,True
+2006-06-17,Brazil,Mexico,2,0,Friendly,True
+2015-11-12,Italy,Spain,2,2,Continental Championship,True
+2012-01-16,Ecuador,USA,2,1,Friendly,False
+2023-03-05,USA,Mexico,0,0,World Cup,False
+2019-10-02,Italy,Denmark,2,0,World Cup Qualifier,False
+2005-05-04,Denmark,Croatia,1,0,World Cup Qualifier,False
+2017-01-02,Belgium,Ecuador,3,0,Nations League,False
+2006-12-08,Argentina,Netherlands,1,1,World Cup Qualifier,False
+2009-08-23,Mexico,USA,2,3,Continental Championship,False
+2024-12-20,Italy,Canada,1,0,World Cup,False
+2012-10-14,Denmark,Canada,1,0,World Cup Qualifier,True
+2025-11-18,Croatia,Canada,3,2,Friendly,True
+2016-09-05,Belgium,Mexico,2,0,Nations League,False
+2014-02-20,Argentina,Portugal,3,0,World Cup,False
+2016-12-04,Germany,Italy,2,1,Nations League,False
+2011-05-23,Mexico,Portugal,2,0,World Cup Qualifier,False
+2023-08-08,Netherlands,Mexico,0,1,World Cup Qualifier,True
+2006-11-05,Netherlands,Spain,3,0,World Cup,False
+2021-01-05,Spain,France,3,0,World Cup Qualifier,False
+2008-12-11,Ecuador,USA,2,0,Continental Championship,True
+2007-07-26,Spain,Argentina,1,1,World Cup Qualifier,False
+2004-09-02,Mexico,Argentina,1,1,Friendly,True
+2022-10-31,Spain,Germany,1,3,Continental Championship,False
+2020-01-07,France,Belgium,0,4,World Cup Qualifier,True
+2015-12-09,Belgium,Portugal,0,3,Friendly,True
+2025-05-09,Portugal,Germany,0,0,World Cup Qualifier,True
+2011-02-25,Canada,France,1,0,Friendly,False
+2007-03-04,Italy,USA,1,1,Friendly,False
+2011-08-14,Belgium,Brazil,2,2,World Cup,False
+2016-04-17,Mexico,Denmark,0,1,Friendly,True
+2018-01-24,Portugal,France,2,2,Nations League,False
+2015-09-10,Germany,Italy,2,2,World Cup Qualifier,True
+2015-10-28,Ecuador,Spain,3,2,Friendly,False
+2011-05-09,Italy,Denmark,1,1,Nations League,False
+2018-11-07,Argentina,Mexico,0,0,World Cup Qualifier,False
+2007-08-12,Mexico,Italy,1,0,Friendly,False
+2007-01-31,USA,Spain,1,3,World Cup Qualifier,False
+2010-11-05,Denmark,Spain,3,2,Continental Championship,False
+2024-10-27,Netherlands,Germany,2,1,Friendly,False
+2025-03-26,Mexico,Portugal,4,1,Friendly,False
+2010-06-09,Italy,Croatia,1,2,World Cup Qualifier,False
+2004-11-14,Germany,England,1,1,World Cup Qualifier,False
+2026-03-20,Portugal,Argentina,1,2,World Cup Qualifier,True
+2017-02-03,Ecuador,France,2,1,Friendly,True
+2016-04-14,France,Portugal,4,2,World Cup Qualifier,False
+2007-12-16,Spain,Netherlands,1,3,Nations League,True
+2020-08-28,Ecuador,Germany,1,1,Friendly,False
+2010-11-06,Germany,Mexico,0,0,Continental Championship,True
+2021-03-26,Argentina,Portugal,1,0,World Cup,False
+2009-12-21,Brazil,Argentina,1,1,Friendly,False
+2020-09-26,Spain,Belgium,1,0,World Cup Qualifier,False
+2018-06-07,Croatia,Netherlands,0,0,Friendly,True
+2022-04-24,Ecuador,France,0,1,World Cup,False
+2008-02-01,Canada,Germany,1,0,Friendly,False
+2010-06-07,Netherlands,Croatia,3,0,World Cup Qualifier,False
+2012-04-11,Denmark,Canada,2,1,Nations League,True
+2015-08-12,Spain,Denmark,1,0,World Cup Qualifier,False
+2017-04-22,Brazil,Spain,0,2,Friendly,False
+2005-04-28,Canada,Mexico,0,1,World Cup Qualifier,False
+2013-03-24,Canada,England,0,0,World Cup Qualifier,False
+2011-02-16,USA,Italy,1,1,World Cup Qualifier,True
+2004-09-19,Germany,Mexico,0,0,Friendly,True
+2006-09-18,Italy,Portugal,3,1,World Cup Qualifier,False
+2005-12-02,Mexico,Netherlands,0,2,Continental Championship,False
+2012-06-20,Spain,Ecuador,0,0,Friendly,False
+2025-11-04,England,Germany,1,1,World Cup Qualifier,False
+2024-08-13,Croatia,Mexico,1,1,Friendly,False
+2011-10-18,USA,Spain,1,0,Continental Championship,False
+2020-02-02,Spain,France,2,3,Friendly,True
+2018-08-10,Ecuador,Germany,2,0,Friendly,False
+2016-07-08,Canada,Croatia,2,0,World Cup,False
+2024-10-30,Brazil,Italy,1,0,World Cup Qualifier,False
+2021-03-28,France,Croatia,3,2,World Cup Qualifier,False
+2012-09-01,Argentina,Netherlands,3,1,Friendly,False
+2021-09-06,Argentina,Ecuador,1,0,World Cup Qualifier,True
+2015-04-08,Mexico,Ecuador,0,1,Nations League,False
+2004-11-21,Italy,Denmark,0,0,Continental Championship,False
+2014-12-14,Italy,Portugal,4,3,World Cup Qualifier,True
+2004-10-18,Portugal,France,1,1,World Cup Qualifier,False
+2012-08-24,Belgium,Ecuador,1,0,World Cup,False
+2007-06-19,Brazil,USA,2,0,Friendly,False
+2010-06-04,Belgium,France,0,1,World Cup Qualifier,True
+2019-09-30,USA,Croatia,2,2,Continental Championship,False
+2008-10-17,Mexico,Ecuador,1,1,Friendly,False
+2005-12-30,Portugal,France,3,0,Friendly,False
+2010-04-15,USA,Argentina,3,0,Friendly,True
+2005-05-29,Germany,France,3,4,World Cup Qualifier,False
+2014-07-01,Argentina,France,3,0,World Cup Qualifier,False
+2018-07-13,Germany,Italy,1,0,World Cup Qualifier,False
+2020-12-22,Croatia,Denmark,1,1,World Cup Qualifier,True
+2014-10-26,Ecuador,Spain,0,1,Nations League,False
+2017-08-06,Netherlands,Denmark,2,0,World Cup,False
+2018-06-03,Mexico,USA,3,3,Friendly,False
+2017-12-30,Italy,Denmark,2,1,Friendly,False
+2017-12-11,England,Germany,1,1,World Cup Qualifier,False
+2012-10-16,Spain,Denmark,3,1,World Cup Qualifier,False
+2010-01-30,France,Mexico,2,2,World Cup Qualifier,True
+2008-08-01,Spain,Argentina,1,0,Nations League,False
+2012-09-20,Netherlands,England,1,0,Friendly,False
+2019-08-06,Brazil,England,1,2,World Cup Qualifier,False
+2026-03-22,Brazil,USA,3,0,Nations League,False
+2014-06-05,Ecuador,Italy,3,0,Nations League,False
+2022-11-11,Mexico,France,2,0,Friendly,False
+2017-12-28,Canada,USA,1,0,Friendly,False
+2005-04-15,England,Ecuador,2,0,Continental Championship,False
+2025-10-13,Canada,England,0,2,World Cup Qualifier,False
+2025-06-16,Spain,Canada,1,2,Continental Championship,False
+2022-09-17,England,Denmark,2,0,World Cup Qualifier,True
+2022-01-07,USA,Belgium,2,0,Friendly,False
+2013-09-07,Italy,Argentina,3,2,Nations League,False
+2020-10-14,Denmark,Canada,0,0,Friendly,False
+2009-04-17,Portugal,Argentina,2,0,World Cup Qualifier,False
+2007-01-02,Spain,Argentina,1,1,World Cup,False
+2021-07-02,Argentina,Canada,0,3,Continental Championship,False
+2023-04-19,Netherlands,Brazil,1,3,Continental Championship,False
+2008-03-02,Spain,Brazil,2,0,Nations League,False
+2015-03-10,England,Canada,3,2,Friendly,False
+2011-07-01,Mexico,Netherlands,4,2,Friendly,False
+2023-06-24,Belgium,Portugal,3,1,World Cup,False
+2010-07-18,Spain,England,0,0,Continental Championship,False
+2016-07-15,Denmark,USA,2,2,Continental Championship,True
+2015-12-27,Netherlands,Germany,2,2,World Cup Qualifier,False
+2004-08-08,England,Denmark,3,1,World Cup Qualifier,False
+2004-05-20,Spain,Canada,1,0,Friendly,False
+2024-02-01,Ecuador,England,0,0,Friendly,False
+2008-03-02,France,USA,1,0,World Cup Qualifier,True
+2016-11-28,Netherlands,USA,3,1,World Cup,False
+2005-07-08,France,Denmark,1,0,World Cup Qualifier,False
+2011-05-07,Denmark,USA,0,1,Friendly,False
+2014-01-24,Mexico,Croatia,1,0,Friendly,False
+2017-11-01,Belgium,Germany,0,2,Nations League,False
+2020-09-17,Ecuador,Italy,0,0,Nations League,False
+2020-07-11,Spain,Netherlands,2,1,Friendly,False
+2024-09-07,England,Denmark,2,1,Nations League,False
+2014-12-24,Canada,Netherlands,1,0,Continental Championship,False
+2017-01-22,France,Netherlands,2,1,World Cup,False
+2007-09-22,Argentina,Ecuador,2,0,Nations League,False
+2025-01-04,Italy,England,2,0,Nations League,False
+2009-11-06,Germany,Spain,5,2,Continental Championship,False
+2009-05-17,Ecuador,Belgium,2,0,Friendly,False
+2016-06-22,Belgium,Italy,2,0,World Cup Qualifier,False
+2013-07-26,Belgium,Netherlands,1,2,World Cup Qualifier,False
+2007-12-09,Germany,Canada,0,0,World Cup Qualifier,True
+2021-11-29,Italy,Canada,0,1,World Cup,False
+2005-08-06,Netherlands,Croatia,0,0,Nations League,False
+2011-07-02,Mexico,Italy,0,2,Continental Championship,True
+2014-12-28,Canada,Ecuador,1,0,Continental Championship,False
+2014-09-22,Argentina,Spain,1,3,Friendly,True
+2014-07-27,Brazil,Argentina,0,0,Continental Championship,True
+2007-08-12,Ecuador,Italy,2,1,Nations League,True
+2025-03-06,Spain,Canada,4,2,Nations League,False
+2018-03-13,Netherlands,Brazil,1,2,Continental Championship,True
+2010-12-12,Croatia,Belgium,1,0,Friendly,False
+2017-03-12,Denmark,Canada,0,1,Friendly,False
+2009-05-18,France,USA,1,1,Continental Championship,False
+2018-12-04,Netherlands,Italy,0,2,Friendly,False
+2022-10-25,Germany,Netherlands,3,2,Friendly,False
+2008-02-29,Spain,Netherlands,0,0,Friendly,True
+2013-03-21,England,Netherlands,0,1,Continental Championship,True
+2020-11-25,Netherlands,Germany,0,1,World Cup Qualifier,True
+2012-05-28,Mexico,Denmark,0,1,Friendly,False
+2020-06-02,USA,Netherlands,1,2,World Cup Qualifier,False
+2018-01-25,Denmark,Mexico,0,1,World Cup Qualifier,False
+2021-08-28,Belgium,USA,0,2,World Cup Qualifier,False
+2025-10-04,Netherlands,Brazil,0,1,World Cup Qualifier,True
+2005-01-07,Netherlands,Mexico,3,2,World Cup,False
+2023-01-12,Spain,Argentina,1,0,Friendly,False
+2012-12-20,England,Germany,1,1,Nations League,True
+2011-10-05,Germany,Netherlands,2,0,World Cup Qualifier,False
+2013-07-19,Croatia,Brazil,1,0,World Cup Qualifier,True
+2006-11-28,Denmark,Croatia,4,0,World Cup Qualifier,False
+2022-05-13,Mexico,Argentina,1,1,Nations League,True
+2006-05-29,England,Brazil,0,0,Friendly,True
+2024-04-19,Spain,England,1,0,Nations League,False
+2008-06-30,Brazil,Italy,3,4,World Cup Qualifier,False
+2019-11-22,Denmark,Argentina,1,2,Friendly,False
+2004-10-04,Croatia,Spain,2,0,Friendly,False
+2022-12-13,Ecuador,Denmark,1,2,World Cup,False
+2013-06-23,Mexico,Canada,1,1,Friendly,False
+2017-07-14,Mexico,Spain,1,4,Continental Championship,False
+2007-10-13,USA,Belgium,2,2,World Cup Qualifier,False
+2008-01-07,Mexico,Germany,1,1,Friendly,True
+2023-11-27,Canada,Germany,2,0,World Cup Qualifier,False
+2020-01-20,Denmark,France,3,0,Friendly,False
+2025-01-29,Belgium,Canada,1,0,World Cup Qualifier,False
+2023-02-09,Spain,Belgium,0,0,World Cup Qualifier,False
+2011-07-17,Croatia,Argentina,3,0,Continental Championship,True
+2023-05-05,Ecuador,Italy,0,1,Continental Championship,True
+2008-05-19,Portugal,Italy,1,2,Friendly,False
+2009-11-28,England,Spain,2,1,Friendly,False
+2014-03-13,Belgium,Ecuador,0,2,World Cup,False
+2017-04-22,Argentina,USA,3,1,Continental Championship,False
+2018-06-04,France,USA,1,0,Nations League,True
+2015-01-03,Denmark,Portugal,0,0,Friendly,False
+2019-10-03,Ecuador,France,1,1,Continental Championship,False
+2025-04-04,Canada,Italy,2,1,Friendly,False
+2013-08-04,Denmark,Belgium,1,1,World Cup Qualifier,False
+2007-04-16,Mexico,Belgium,3,0,World Cup Qualifier,True
+2005-10-14,Brazil,Portugal,0,0,World Cup Qualifier,False
+2013-05-10,England,France,2,1,Nations League,False
+2012-03-22,England,USA,0,0,Continental Championship,True
+2025-02-05,Belgium,Ecuador,0,2,World Cup Qualifier,False
+2005-04-02,Spain,Brazil,1,2,Continental Championship,True
+2012-12-02,Mexico,Canada,0,2,World Cup Qualifier,False
+2009-11-09,USA,Croatia,2,0,Friendly,False
+2023-03-29,Mexico,Portugal,2,2,World Cup Qualifier,True
+2004-03-11,Portugal,France,1,1,World Cup Qualifier,False
+2011-08-21,Brazil,USA,0,2,Friendly,False
+2006-10-04,Germany,England,4,1,Nations League,False
+2015-11-19,USA,Belgium,2,1,Friendly,False
+2015-09-27,Germany,England,0,0,World Cup Qualifier,False
+2022-08-22,Argentina,Mexico,1,2,World Cup,False
+2019-12-25,Brazil,USA,4,2,Friendly,False
+2019-05-17,Brazil,Belgium,1,1,Continental Championship,False
+2018-08-16,Italy,Denmark,3,0,Continental Championship,False
+2022-10-13,Argentina,Croatia,1,1,Nations League,False
+2022-05-29,Brazil,Denmark,1,2,Nations League,False
+2011-05-08,Spain,Belgium,0,2,World Cup,True
+2006-05-09,Canada,England,3,2,World Cup Qualifier,False
+2025-07-02,England,Germany,2,2,Friendly,False
+2025-02-22,Italy,Croatia,0,3,Nations League,True
+2019-03-09,Canada,Mexico,0,0,Nations League,True
+2007-03-31,USA,Spain,0,0,World Cup,False
+2021-12-23,England,Portugal,1,4,Nations League,False
+2019-05-12,Italy,Croatia,2,0,Nations League,False
+2011-01-13,Brazil,Mexico,1,1,Nations League,False
+2007-11-06,Ecuador,Brazil,1,2,Continental Championship,True
+2026-01-29,Spain,Belgium,1,2,World Cup,True
+2017-06-08,England,Belgium,0,2,World Cup Qualifier,True
+2018-03-31,Germany,Croatia,3,0,Friendly,False
+2004-07-30,Canada,France,0,0,World Cup Qualifier,True
+2023-04-16,Italy,Mexico,1,3,World Cup Qualifier,True
+2024-04-26,Mexico,Spain,4,1,Nations League,False
+2014-04-12,Ecuador,Argentina,1,3,Continental Championship,True
+2014-12-30,Spain,Argentina,4,2,World Cup Qualifier,False
+2011-09-08,France,Denmark,0,0,World Cup Qualifier,True
+2023-10-01,Belgium,Netherlands,1,0,Continental Championship,False
+2012-05-27,Italy,England,3,4,World Cup Qualifier,False
+2013-05-07,Ecuador,Argentina,2,1,World Cup Qualifier,False
+2011-01-03,Ecuador,Mexico,1,3,Friendly,False
+2014-05-25,Italy,Denmark,1,1,World Cup Qualifier,False
+2021-06-10,Argentina,Italy,3,1,Friendly,False
+2009-04-24,Ecuador,Denmark,2,3,Friendly,True
+2016-01-31,Croatia,Mexico,3,2,World Cup,False
+2009-02-11,Canada,Netherlands,2,0,World Cup Qualifier,False
+2025-05-23,France,Brazil,1,1,World Cup Qualifier,False
+2011-11-27,Mexico,USA,2,2,Friendly,True
+2008-05-26,Denmark,Portugal,1,0,Continental Championship,False
+2019-09-21,Belgium,Brazil,1,1,World Cup,True
+2007-12-08,Belgium,Netherlands,1,0,World Cup Qualifier,True
+2022-08-18,Brazil,Denmark,4,2,World Cup Qualifier,False
+2004-08-05,Italy,Argentina,4,2,World Cup,False
+2011-11-22,England,Mexico,1,0,Continental Championship,False
+2006-01-21,Mexico,Italy,0,2,Continental Championship,False
+2012-07-28,Canada,Belgium,4,1,Continental Championship,True
+2011-06-30,Mexico,Ecuador,0,1,Friendly,False
+2011-04-25,Spain,England,0,0,Continental Championship,True
+2008-08-16,Croatia,England,0,1,Friendly,True
+2013-09-01,Italy,Denmark,1,3,World Cup Qualifier,True
+2022-06-24,England,USA,0,1,Friendly,False
+2019-03-19,England,USA,1,0,World Cup Qualifier,False
+2012-06-20,Italy,England,1,1,Nations League,False
+2021-01-27,Argentina,Belgium,2,3,Friendly,False
+2004-02-23,Germany,England,1,0,Nations League,False
+2006-10-03,Portugal,Ecuador,1,1,Friendly,False
+2013-08-21,Brazil,Portugal,0,0,World Cup Qualifier,True
+2015-10-08,Portugal,France,0,1,Continental Championship,True
+2011-05-13,Brazil,Netherlands,1,0,World Cup Qualifier,True
+2025-10-30,France,Ecuador,1,1,Continental Championship,False
+2016-07-07,Italy,USA,1,2,Nations League,False
+2005-04-13,Spain,Ecuador,1,2,Nations League,False
+2022-04-18,Germany,USA,0,2,World Cup Qualifier,False
+2018-12-31,France,USA,2,2,Continental Championship,False
+2019-12-22,Brazil,Canada,1,0,Friendly,False
+2004-03-31,USA,England,1,0,World Cup Qualifier,True
+2006-10-15,Denmark,Canada,2,1,World Cup Qualifier,False
+2015-07-10,Netherlands,Canada,0,0,World Cup Qualifier,True
+2007-04-05,Germany,Croatia,0,1,Friendly,False
+2011-02-17,Belgium,USA,0,1,Friendly,False
+2009-10-24,Ecuador,Spain,5,0,Friendly,False
+2017-06-27,Denmark,Argentina,0,1,World Cup Qualifier,True
+2017-06-13,Brazil,England,1,1,Friendly,False
+2008-09-03,Croatia,Mexico,2,1,Friendly,True
+2018-08-14,Canada,Portugal,0,1,Continental Championship,True
+2020-12-14,Canada,Spain,2,0,Nations League,True
+2012-11-11,Portugal,Croatia,2,0,Nations League,False
+2023-02-15,Germany,Spain,1,0,World Cup,False
+2007-05-02,Portugal,Italy,1,0,Friendly,False
+2012-06-12,Belgium,Croatia,3,2,World Cup Qualifier,False
+2014-11-08,USA,England,3,0,World Cup,False
+2010-01-02,Mexico,England,1,1,World Cup Qualifier,False
+2018-06-28,Canada,Belgium,1,5,World Cup Qualifier,False
+2017-07-18,Italy,Brazil,0,3,Friendly,True
+2014-05-02,Canada,Spain,6,0,Nations League,False
+2009-09-24,Spain,Portugal,0,3,World Cup Qualifier,False
+2019-10-22,Italy,France,1,0,Continental Championship,True
+2018-08-09,Germany,Denmark,0,1,World Cup,False
+2018-06-25,Ecuador,Portugal,1,0,World Cup Qualifier,False
+2016-01-20,England,Croatia,3,0,World Cup Qualifier,False
+2015-04-04,Argentina,Spain,0,1,Friendly,False
+2007-11-06,Brazil,Spain,3,1,Nations League,True
+2007-09-03,Germany,Canada,0,0,Continental Championship,False
+2005-07-24,Germany,Netherlands,3,2,Friendly,False
+2005-06-25,England,Brazil,3,2,World Cup Qualifier,True
+2012-02-11,Argentina,USA,2,0,Friendly,False
+2026-01-16,Ecuador,Brazil,1,0,World Cup,False
+2004-08-06,Spain,England,2,0,World Cup Qualifier,False
+2016-08-27,Italy,Belgium,4,0,Friendly,False
+2006-06-08,Argentina,England,3,1,Friendly,False
+2022-03-13,Italy,Argentina,1,2,World Cup Qualifier,False
+2019-01-24,Denmark,Mexico,1,0,Nations League,False
+2012-02-25,France,Ecuador,0,1,World Cup,True
+2011-03-02,England,Germany,2,1,Continental Championship,False
+2017-08-16,USA,Spain,2,1,Friendly,False
+2006-04-04,Mexico,Spain,0,0,Friendly,False
+2010-08-18,Spain,France,1,0,World Cup,False
+2025-03-03,Mexico,Canada,3,2,World Cup Qualifier,False
+2025-03-24,Ecuador,France,0,0,World Cup Qualifier,False
+2008-03-29,Ecuador,Argentina,1,1,Friendly,False
+2020-03-18,Italy,Ecuador,3,1,Continental Championship,False
+2011-02-06,Ecuador,France,1,0,Nations League,False
+2014-06-26,Ecuador,England,3,0,Continental Championship,True
+2020-05-28,Argentina,Netherlands,1,1,Friendly,True
+2016-03-29,Argentina,France,2,0,Continental Championship,False
+2010-02-12,Ecuador,Argentina,1,2,Friendly,True
+2008-03-05,Brazil,Canada,0,0,World Cup Qualifier,False
+2018-12-12,Belgium,Croatia,2,0,Friendly,False
+2004-07-09,Canada,Denmark,1,1,World Cup Qualifier,False
+2011-01-28,France,Croatia,1,0,World Cup Qualifier,False
+2011-04-28,Germany,Italy,2,1,Continental Championship,True
+2013-06-10,Germany,Belgium,2,3,Continental Championship,False
+2025-06-23,Brazil,Belgium,1,0,Continental Championship,False
+2025-09-02,Denmark,Germany,1,0,Continental Championship,False
+2014-08-21,Brazil,Argentina,4,1,Continental Championship,True
+2006-03-30,USA,Belgium,1,0,Friendly,True
+2013-09-05,Ecuador,Italy,0,2,Continental Championship,False
+2012-12-15,Croatia,Spain,0,4,World Cup Qualifier,False
+2013-12-19,France,Canada,1,0,World Cup Qualifier,True
+2017-04-07,Portugal,Brazil,0,1,World Cup Qualifier,True
+2004-06-17,France,England,2,1,Friendly,False
+2026-01-16,Ecuador,Brazil,1,2,Continental Championship,False
+2012-08-06,Germany,Denmark,2,0,World Cup Qualifier,False
+2013-10-09,Denmark,Ecuador,2,4,Nations League,False
+2005-10-21,Portugal,Germany,4,1,Friendly,False
+2023-01-16,Canada,Brazil,3,2,Nations League,True
+2017-08-05,Portugal,Italy,3,0,Continental Championship,False
+2019-09-26,Netherlands,Ecuador,3,2,World Cup Qualifier,False
+2022-09-23,Canada,Italy,1,0,World Cup Qualifier,False
+2022-08-20,France,USA,0,1,Friendly,True
+2010-08-19,Netherlands,Croatia,1,0,Friendly,True
+2016-02-08,Germany,Canada,1,2,Continental Championship,True
+2014-03-23,USA,England,1,0,Friendly,False
+2015-02-01,Brazil,Mexico,2,1,Continental Championship,False
+2011-02-21,USA,Spain,2,1,Friendly,False
+2013-12-01,England,Spain,1,1,World Cup Qualifier,False
+2017-12-02,Spain,Brazil,3,2,Friendly,False
+2011-04-19,Mexico,Portugal,0,4,World Cup Qualifier,True
+2009-11-18,Croatia,Mexico,0,1,World Cup Qualifier,False
+2009-06-25,France,Netherlands,1,2,Continental Championship,True
+2013-10-22,France,Italy,2,0,World Cup Qualifier,True
+2022-08-03,Netherlands,Croatia,3,0,Nations League,False
+2015-07-02,Croatia,Mexico,1,1,Continental Championship,False
+2015-11-21,England,Mexico,1,0,Continental Championship,True
+2010-03-12,Spain,Croatia,1,0,World Cup Qualifier,False
+2010-11-17,Canada,England,0,0,Continental Championship,False
+2019-01-02,Canada,England,0,3,Friendly,True
+2008-09-12,Portugal,England,1,1,World Cup Qualifier,False
+2024-07-26,Brazil,Argentina,1,0,Friendly,False
+2020-05-31,Brazil,USA,1,0,World Cup,False
+2012-03-28,Italy,France,1,1,Friendly,False
+2020-09-23,Belgium,Denmark,0,0,Friendly,True
+2020-08-02,Brazil,Portugal,2,0,Friendly,True
+2018-11-28,Germany,Italy,7,2,Friendly,False
+2019-01-17,Portugal,Italy,3,4,Friendly,False
+2007-09-21,Italy,Ecuador,2,0,Friendly,True
+2004-08-08,Netherlands,Canada,0,1,Friendly,False
+2010-11-20,Mexico,Canada,1,2,Continental Championship,True
+2010-04-13,Netherlands,England,0,1,World Cup Qualifier,False
+2009-07-13,Argentina,Portugal,1,4,Friendly,False
+2014-06-08,Brazil,Croatia,1,2,Friendly,False
+2024-10-03,USA,Netherlands,2,1,Nations League,False
+2019-04-10,Brazil,England,0,2,World Cup Qualifier,True
+2013-03-28,Netherlands,Mexico,0,0,World Cup,True
+2010-01-28,Belgium,Spain,4,0,World Cup,True
+2005-05-15,Italy,USA,1,3,Friendly,False
+2016-05-26,Portugal,Argentina,1,0,World Cup,False
+2017-11-21,Mexico,Canada,1,0,Continental Championship,False
+2019-11-07,Argentina,Netherlands,1,2,Friendly,True
+2025-05-03,Italy,Argentina,1,0,Friendly,False
+2015-04-07,Belgium,Netherlands,2,2,World Cup Qualifier,False
+2014-06-15,Argentina,Portugal,2,1,Friendly,False
+2018-11-21,Brazil,France,0,0,Nations League,False
+2026-03-24,Mexico,Argentina,1,1,Continental Championship,True
+2014-05-27,Portugal,Belgium,1,3,Friendly,False
+2018-10-04,Netherlands,France,2,1,Nations League,False
+2013-07-20,Belgium,Netherlands,2,3,World Cup Qualifier,False
+2015-05-17,USA,Croatia,1,0,World Cup,False
+2024-06-25,Netherlands,Portugal,1,1,Continental Championship,False
+2008-08-11,Canada,Spain,1,2,World Cup Qualifier,False
+2019-08-24,Belgium,England,1,1,World Cup,False
+2005-08-16,Argentina,Denmark,1,1,Friendly,True
+2023-04-15,Denmark,France,3,0,Friendly,True
+2026-01-02,Italy,Brazil,1,0,World Cup Qualifier,True
+2026-01-12,Canada,France,0,1,World Cup Qualifier,False
+2007-03-10,Portugal,France,1,0,Continental Championship,True
+2024-03-26,Croatia,Canada,2,1,World Cup,True
+2012-04-11,Ecuador,England,4,0,World Cup Qualifier,True
+2004-03-01,USA,Argentina,0,1,World Cup Qualifier,True
+2019-12-07,Argentina,France,1,0,World Cup Qualifier,False
+2021-09-28,Argentina,Germany,1,0,World Cup Qualifier,True
+2004-12-15,France,Canada,1,0,Nations League,False
+2023-11-29,Belgium,Germany,1,3,World Cup Qualifier,True
+2024-02-20,Italy,Netherlands,2,1,Nations League,False
+2015-11-06,Netherlands,USA,2,2,Nations League,False
+2009-11-24,England,Italy,3,2,World Cup Qualifier,False
+2006-08-21,Germany,Spain,2,1,Nations League,False
+2010-04-04,France,Mexico,0,1,Friendly,False
+2026-03-27,Italy,Croatia,1,1,World Cup Qualifier,True
+2012-03-21,Netherlands,USA,1,2,World Cup Qualifier,False
+2018-12-11,France,Spain,2,0,World Cup Qualifier,True
+2017-02-24,Germany,England,2,1,World Cup Qualifier,False
+2019-01-09,Italy,Germany,3,2,World Cup,False
+2009-12-16,Mexico,Germany,1,3,Friendly,False
+2017-08-08,Belgium,Portugal,4,1,World Cup Qualifier,False
+2004-06-14,Belgium,France,2,1,World Cup Qualifier,False
+2015-05-20,Brazil,Netherlands,0,1,Nations League,True
+2009-07-24,Argentina,Portugal,2,1,Nations League,False
+2009-02-17,Croatia,Belgium,2,1,World Cup Qualifier,False
+2012-12-28,Croatia,Brazil,3,2,Nations League,False
+2024-10-08,Belgium,Ecuador,1,2,Continental Championship,False
+2006-04-26,Canada,Mexico,1,3,Friendly,True
+2024-09-10,France,Ecuador,0,0,World Cup Qualifier,False
+2021-12-08,England,Croatia,2,0,Friendly,False
+2020-07-25,Belgium,Argentina,1,0,World Cup Qualifier,False
+2008-02-16,Italy,Belgium,2,0,World Cup,True
+2015-02-08,Denmark,Croatia,2,1,World Cup Qualifier,True
+2004-09-23,Denmark,Ecuador,0,0,Nations League,False
+2021-12-13,Netherlands,Croatia,3,2,Friendly,False
+2004-06-17,USA,Portugal,1,0,Friendly,False
+2004-05-09,France,Netherlands,0,2,Friendly,True
+2023-10-01,Belgium,Ecuador,2,4,Nations League,False
+2019-08-10,Spain,France,0,2,Friendly,True
+2004-02-29,Belgium,Denmark,0,1,Friendly,False
+2026-03-11,Germany,Canada,1,0,World Cup Qualifier,False
+2017-02-14,France,Argentina,2,1,Nations League,False
+2008-03-01,Mexico,Spain,0,0,Friendly,False
+2011-08-29,Belgium,Germany,2,1,Friendly,False
+2013-11-14,Canada,Netherlands,3,1,Friendly,False
+2016-04-04,Mexico,England,2,1,World Cup Qualifier,False
+2004-08-07,Canada,Brazil,0,0,Friendly,True
+2022-01-21,Denmark,Belgium,1,4,Friendly,True
+2016-05-23,Argentina,Netherlands,1,3,World Cup Qualifier,True
+2020-07-01,Croatia,Netherlands,3,1,Friendly,False
+2019-12-04,Netherlands,England,0,1,Nations League,True
+2007-10-10,Italy,Canada,1,1,Nations League,True
+2008-10-29,Spain,Croatia,2,2,Nations League,False
+2015-07-18,Mexico,Argentina,1,1,World Cup Qualifier,False
+2019-02-20,Italy,USA,0,0,Friendly,False
+2017-04-01,Denmark,Netherlands,1,1,Continental Championship,False
+2009-01-15,USA,Denmark,2,0,World Cup Qualifier,True
+2010-10-14,Belgium,Croatia,1,1,Continental Championship,False
+2007-03-04,Italy,France,1,1,World Cup Qualifier,True
+2016-08-15,Italy,Denmark,0,0,Friendly,True
+2010-02-14,Netherlands,Mexico,1,1,World Cup Qualifier,False
+2016-05-04,Ecuador,Netherlands,3,1,Friendly,False
+2010-11-10,Brazil,Croatia,1,0,World Cup,False
+2007-11-22,England,Ecuador,2,1,Friendly,True
+2005-09-10,France,Brazil,2,3,World Cup,False
+2009-05-16,USA,Mexico,1,0,Nations League,True
+2026-03-14,Mexico,Ecuador,1,0,Nations League,False
+2014-08-27,Brazil,Germany,1,1,World Cup,False
+2004-03-05,Mexico,Netherlands,1,1,World Cup Qualifier,False
+2015-06-22,Denmark,Italy,0,0,Friendly,True
+2023-03-28,Croatia,USA,1,1,World Cup Qualifier,False
+2020-04-25,Ecuador,USA,1,2,World Cup,False
+2023-01-27,Belgium,Italy,0,2,Nations League,False
+2005-01-30,Argentina,Germany,1,0,World Cup Qualifier,False
+2008-07-31,Brazil,Denmark,1,1,World Cup Qualifier,False
+2009-07-27,Croatia,Netherlands,1,2,World Cup Qualifier,False
+2023-06-29,Brazil,Denmark,2,1,Friendly,True
+2023-07-01,Spain,Netherlands,1,1,Friendly,False
+2017-02-17,USA,France,5,3,World Cup,False
+2020-03-27,USA,Netherlands,2,0,World Cup,True
+2014-02-08,Brazil,England,3,1,Continental Championship,False
+2025-08-26,Argentina,Croatia,2,0,World Cup Qualifier,False
+2014-08-05,Italy,Mexico,1,3,Continental Championship,False
+2022-11-24,Ecuador,Italy,0,0,Friendly,True
+2017-11-15,France,Spain,1,1,World Cup Qualifier,True
+2008-11-30,France,Ecuador,1,0,Continental Championship,True
+2019-05-22,England,Italy,1,2,Friendly,True
+2013-04-09,Croatia,Argentina,0,1,Friendly,False
+2022-04-13,USA,Spain,0,1,Friendly,False
+2011-07-28,Italy,Mexico,0,0,Nations League,True
+2023-01-23,Ecuador,USA,0,0,World Cup Qualifier,False
+2005-09-22,Portugal,France,0,3,Friendly,False
+2010-03-29,Brazil,USA,2,2,Nations League,False
+2012-11-26,Croatia,Germany,3,1,World Cup Qualifier,False
+2022-02-04,USA,Netherlands,0,1,World Cup,False
+2017-08-12,England,Portugal,0,1,Nations League,False
+2011-09-14,USA,Brazil,1,1,World Cup Qualifier,False
+2021-11-22,Denmark,Germany,1,1,World Cup Qualifier,False
+2023-09-07,Croatia,England,1,0,Friendly,False
+2008-08-28,Spain,Croatia,1,0,World Cup,False
+2016-12-16,Belgium,England,0,0,Continental Championship,False
+2012-02-06,Belgium,England,3,2,World Cup Qualifier,False
+2022-06-09,Netherlands,Ecuador,1,1,Nations League,False
+2018-04-30,Denmark,Belgium,1,0,World Cup Qualifier,True
+2014-05-31,Netherlands,Germany,1,5,World Cup,True
+2007-01-16,Denmark,Croatia,0,0,World Cup Qualifier,False
+2015-03-04,Croatia,Canada,0,2,World Cup Qualifier,True
+2008-08-23,Portugal,Belgium,3,1,Nations League,False
+2008-07-30,Brazil,France,2,0,Friendly,False
+2016-01-10,Croatia,Belgium,1,1,Friendly,False
+2022-08-25,Spain,Belgium,3,2,World Cup Qualifier,False
+2005-08-21,Croatia,USA,0,2,Nations League,True
+2010-01-24,Denmark,Brazil,0,1,Nations League,False
+2008-06-26,Mexico,Denmark,0,0,Nations League,False
+2015-07-23,Croatia,France,0,0,Nations League,False
+2023-09-19,Belgium,Mexico,1,0,World Cup Qualifier,False
+2008-07-24,Portugal,Spain,1,2,Nations League,False
+2008-12-08,Spain,Belgium,1,2,Continental Championship,False
+2006-11-03,Croatia,Denmark,1,1,Friendly,True
+2013-11-01,Spain,Canada,1,3,Nations League,False
+2023-10-23,Croatia,Spain,3,1,World Cup Qualifier,False
+2014-05-11,Argentina,Denmark,2,2,World Cup,False
+2018-08-22,Ecuador,Germany,2,0,World Cup Qualifier,True
+2019-12-11,Netherlands,Italy,2,1,World Cup Qualifier,False
+2023-07-08,Mexico,Spain,0,1,Friendly,False
+2025-11-20,England,Italy,3,0,Friendly,False
+2017-10-03,Netherlands,Spain,1,1,World Cup Qualifier,False
+2019-11-25,Argentina,Germany,1,0,World Cup Qualifier,True
+2004-04-05,Germany,France,0,2,Nations League,False
+2023-06-02,France,Germany,1,3,Friendly,False
+2021-10-16,Croatia,Belgium,1,0,World Cup Qualifier,False
+2006-04-17,Canada,England,2,0,Nations League,False
+2025-05-06,Canada,Brazil,1,2,Nations League,False
+2013-10-12,Canada,Brazil,2,1,Continental Championship,False
+2020-10-17,Denmark,Ecuador,1,1,World Cup Qualifier,True
+2022-09-08,Canada,Belgium,2,0,Continental Championship,False
+2015-06-28,USA,Denmark,1,1,World Cup,True
+2023-12-05,Ecuador,England,1,0,Friendly,False
+2016-05-11,Ecuador,France,1,1,Nations League,True
+2009-01-06,Italy,Ecuador,0,1,Friendly,False
+2019-08-25,Portugal,Brazil,0,0,Continental Championship,False
+2010-09-20,Croatia,France,2,0,Nations League,False
+2012-05-21,France,England,3,1,World Cup Qualifier,False
+2019-12-16,Argentina,Germany,1,2,Friendly,False
+2020-08-29,Ecuador,France,2,2,Friendly,True
+2018-04-25,Brazil,Denmark,1,0,Continental Championship,False
+2020-07-13,Mexico,Canada,0,0,Friendly,False
+2022-08-12,Belgium,Ecuador,2,3,World Cup Qualifier,False
+2019-06-27,France,Portugal,2,0,Continental Championship,False
+2008-10-03,Netherlands,Italy,1,0,Friendly,False
+2012-01-04,Germany,USA,0,0,Friendly,False
+2022-10-01,England,Mexico,2,3,Friendly,False
+2005-02-13,Mexico,Italy,1,0,Continental Championship,True
+2011-03-23,Brazil,Germany,3,1,Nations League,False
+2015-02-25,Belgium,Spain,0,0,World Cup Qualifier,False
+2017-12-02,Italy,Denmark,0,0,Friendly,True
+2017-06-04,England,Mexico,2,0,World Cup,False
+2005-03-17,Croatia,England,2,2,World Cup Qualifier,True
+2006-08-24,Mexico,France,1,2,Friendly,False
+2007-10-15,Croatia,France,0,0,World Cup Qualifier,True
+2007-06-14,Portugal,Germany,1,3,World Cup,True
+2004-11-03,England,Portugal,0,1,World Cup Qualifier,True
+2013-07-14,Portugal,Spain,0,0,Nations League,False
+2009-03-31,England,Germany,1,2,Friendly,False
+2019-09-01,Portugal,Mexico,0,0,Nations League,False
+2009-10-24,Argentina,Spain,1,0,Friendly,False
+2006-01-22,Portugal,Denmark,0,3,Nations League,True
+2013-06-28,Germany,Portugal,1,1,Nations League,False
+2020-04-10,Spain,France,6,2,World Cup Qualifier,False
+2020-04-09,Denmark,France,2,0,Friendly,False
+2017-07-07,Canada,France,1,2,Continental Championship,False
+2016-12-24,Canada,Mexico,0,0,World Cup Qualifier,True
+2005-08-20,Canada,Denmark,1,2,Continental Championship,False
+2010-04-08,Canada,France,1,1,Nations League,True
+2005-10-01,Belgium,Portugal,1,2,Friendly,False
+2007-04-04,Germany,France,1,2,Friendly,False
+2013-01-01,Netherlands,Italy,3,1,World Cup Qualifier,False
+2016-12-15,Italy,USA,3,3,Friendly,True
+2010-07-30,Spain,Mexico,1,2,Friendly,False
+2024-01-10,Mexico,France,3,0,Nations League,False
+2022-04-25,USA,Netherlands,2,1,World Cup,False
+2008-11-15,USA,Belgium,0,0,Friendly,False
+2018-09-21,Croatia,Brazil,2,2,World Cup,True
+2013-02-27,Argentina,Portugal,1,1,World Cup Qualifier,False
+2020-05-17,Italy,Spain,2,0,World Cup Qualifier,False
+2009-12-14,Netherlands,USA,0,2,World Cup Qualifier,False
+2014-02-22,Denmark,France,1,1,World Cup Qualifier,False
+2018-05-16,Canada,USA,2,1,Friendly,False
+2012-03-04,Germany,Canada,1,1,Friendly,True
+2022-01-23,France,Argentina,2,1,World Cup Qualifier,False
+2005-06-04,Croatia,Mexico,1,2,World Cup,False
+2008-04-08,Croatia,Brazil,0,0,World Cup Qualifier,False
+2010-07-23,Brazil,Mexico,1,1,World Cup,False
+2005-05-26,Germany,Croatia,1,0,Continental Championship,True
+2015-09-11,Argentina,Canada,0,0,Continental Championship,False
+2012-02-23,Germany,Ecuador,1,1,World Cup,False
+2024-05-21,Belgium,USA,1,0,Continental Championship,True
+2010-10-24,Ecuador,USA,0,1,World Cup Qualifier,True
+2011-08-02,Brazil,Netherlands,0,1,Friendly,False
+2006-04-01,Italy,France,1,1,Continental Championship,False
+2013-11-06,Netherlands,Belgium,1,1,World Cup Qualifier,False
+2024-05-12,Brazil,Spain,2,2,Friendly,True
+2012-05-16,Spain,Portugal,1,0,Friendly,True
+2016-03-24,Argentina,Ecuador,1,3,World Cup,False
+2025-08-18,Canada,Belgium,0,2,World Cup,False
+2018-11-30,Germany,Belgium,1,0,World Cup Qualifier,False
+2020-10-24,France,Canada,0,0,World Cup Qualifier,False
+2007-04-17,Canada,Belgium,2,4,Friendly,False
+2017-03-23,Belgium,Brazil,3,1,World Cup Qualifier,False
+2021-08-07,Portugal,Ecuador,3,1,World Cup Qualifier,True
+2013-02-21,Belgium,Ecuador,3,1,World Cup,False
+2005-01-17,Spain,Denmark,2,2,Nations League,True
+2018-01-27,Ecuador,Croatia,2,3,Nations League,False
+2013-05-16,Spain,Italy,0,0,Friendly,False
+2015-06-01,France,Portugal,0,1,World Cup Qualifier,False
+2021-06-10,Argentina,Mexico,1,0,World Cup,False
+2010-03-25,Ecuador,Germany,2,0,World Cup Qualifier,False
+2024-04-14,Canada,England,2,1,Friendly,True
+2026-02-02,Brazil,Denmark,3,1,Friendly,True
+2015-06-24,Belgium,Italy,2,1,Continental Championship,True
+2020-08-15,Ecuador,USA,0,0,Continental Championship,False
+2021-02-11,Italy,England,0,3,World Cup Qualifier,False
+2017-01-01,France,USA,0,1,Friendly,False
+2020-11-16,Mexico,Argentina,2,2,Continental Championship,False
+2025-06-09,Belgium,Germany,0,2,Friendly,True
+2020-12-25,Canada,Argentina,4,1,World Cup Qualifier,True
+2017-03-16,France,Brazil,1,4,Friendly,False
+2018-03-31,Denmark,England,1,0,Friendly,False
+2013-02-14,Denmark,Canada,0,1,Friendly,False
+2005-11-29,Mexico,Spain,1,0,World Cup Qualifier,True
+2009-06-29,Croatia,Italy,2,1,Friendly,False
+2020-08-08,Italy,Germany,1,0,Friendly,False
+2019-05-14,Germany,Mexico,1,4,Friendly,False
+2023-07-24,Argentina,Denmark,3,0,Friendly,False
+2006-04-10,Mexico,Canada,3,2,Continental Championship,False
+2020-03-03,Belgium,Italy,0,2,Friendly,False
+2015-04-19,Croatia,Ecuador,2,1,Friendly,False
+2022-10-23,Denmark,Netherlands,1,1,Nations League,True
+2015-07-11,Croatia,Germany,1,2,Friendly,False
+2015-05-28,USA,Ecuador,1,0,Friendly,True
+2007-05-07,Netherlands,Croatia,1,0,Nations League,False
+2026-02-18,Canada,Mexico,0,0,Friendly,True
+2022-09-23,Mexico,Italy,1,1,Continental Championship,False
+2020-05-04,Spain,Croatia,2,0,Friendly,False
+2016-05-30,Croatia,Italy,0,0,World Cup Qualifier,True
+2017-07-06,Argentina,Netherlands,1,0,Nations League,False
+2019-11-06,France,Netherlands,0,0,Friendly,False
+2022-10-01,Netherlands,France,3,1,Friendly,False
+2013-12-15,Argentina,France,1,0,Nations League,True
+2014-05-05,Denmark,Mexico,1,0,World Cup Qualifier,False
+2016-08-14,USA,Denmark,1,3,World Cup Qualifier,False
+2014-05-12,England,Spain,1,0,Friendly,False
+2020-03-25,Brazil,Belgium,0,1,Friendly,False
+2009-07-19,Mexico,Spain,1,3,World Cup,False
+2012-05-06,Mexico,Spain,0,0,Friendly,True
+2012-03-12,Belgium,Croatia,1,0,Friendly,False
+2008-09-09,Belgium,Italy,0,1,Continental Championship,False
+2007-06-18,Brazil,Mexico,1,1,Friendly,False
+2017-06-27,Netherlands,Germany,0,3,Friendly,False
+2011-09-04,Mexico,Croatia,3,1,Friendly,False
+2012-12-23,Italy,France,1,4,Nations League,False
+2022-02-25,Denmark,Italy,1,1,World Cup,False
+2007-03-17,Belgium,Mexico,5,1,Nations League,False
+2007-06-25,Croatia,Brazil,3,3,Nations League,False
+2016-08-20,Denmark,Mexico,1,0,Friendly,True
+2026-02-11,Spain,Brazil,1,1,Nations League,False
+2020-09-13,Mexico,USA,1,1,Friendly,False
+2015-03-04,Ecuador,Spain,1,0,Friendly,False
+2024-10-30,Germany,Portugal,3,0,World Cup Qualifier,False
+2011-05-25,USA,Portugal,1,0,Friendly,False
+2005-09-02,USA,Germany,0,2,World Cup,True
+2005-07-12,Italy,Germany,0,1,World Cup Qualifier,True
+2019-04-14,Ecuador,Mexico,1,1,Friendly,False
+2017-09-16,Argentina,Brazil,1,2,World Cup Qualifier,False
+2020-08-08,Italy,Belgium,4,1,World Cup Qualifier,False
+2012-07-06,Italy,Argentina,2,0,Nations League,False
+2014-04-28,England,Belgium,1,1,World Cup,True
+2009-06-13,England,Germany,0,0,Friendly,False
+2010-12-03,Brazil,Germany,1,1,Friendly,True
+2013-11-25,France,USA,0,2,Friendly,True
+2020-04-11,France,Portugal,3,0,World Cup Qualifier,False
+2006-02-27,Portugal,Mexico,0,3,Continental Championship,True
+2010-03-16,Portugal,England,2,2,Friendly,False
+2013-07-10,Belgium,Portugal,2,1,Friendly,False
+2012-08-15,Portugal,Ecuador,0,2,Friendly,False
+2017-08-04,Croatia,Italy,0,1,World Cup,True
+2014-07-12,Argentina,Mexico,2,1,Friendly,True
+2007-04-10,France,Netherlands,1,1,Friendly,False
+2011-09-05,Croatia,Netherlands,1,2,Nations League,False
+2013-11-22,Portugal,Belgium,0,1,Friendly,False
+2007-06-13,USA,England,2,1,World Cup Qualifier,False
+2005-09-02,Germany,Portugal,3,0,Continental Championship,False
+2007-03-06,Portugal,France,3,1,World Cup Qualifier,True
+2011-12-11,Ecuador,Portugal,1,1,World Cup Qualifier,False
+2013-12-31,USA,Argentina,2,0,World Cup Qualifier,True
+2004-10-30,Mexico,France,0,1,World Cup Qualifier,False
+2012-10-07,Argentina,Brazil,2,1,Friendly,True
+2005-12-05,Portugal,Denmark,2,5,Friendly,False
+2011-01-12,Mexico,Argentina,2,1,Friendly,False
+2020-01-28,France,Italy,2,0,Friendly,False
+2004-12-02,Argentina,Germany,2,2,Friendly,True
