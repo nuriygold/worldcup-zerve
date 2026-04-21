@@ -2,6 +2,8 @@
 
 > **ZerveHack 2026 Submission** | $10,000 in prizes | Deadline April 29 @ 2pm EDT
 
+🚀 **Live Demo:** [https://73565948-87cc4798.hub.zerve.cloud](https://73565948-87cc4798.hub.zerve.cloud) · [Zerve Notebook](https://app.zerve.ai/notebook/a35a42cf-ade7-4ca0-86b5-cb4648662dd7)
+
 [![Built with Zerve](https://img.shields.io/badge/Built%20with-Zerve-6C47FF?style=flat-square)](https://zerve.ai)
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
